@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dbModels-Web.config Connection String" description="dbModels Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/Models.dbModel.csdl|res://*/Models.dbModel.ssdl|res://*/Models.dbModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=crud-javier.database.windows.net;initial catalog=crud;User Id=javier0015@crud-javier;Password=:@y906DI6d}5;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\CrudPruebas\\1\\Crud\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbModels']/@connectionString" />
+  </parameter>
+</parameters>
